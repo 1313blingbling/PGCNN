@@ -16,7 +16,7 @@ The PGCNN model also includes an evidential layer, which provides uncertainty es
 ##Training and Testing
 To train and test the model, run the following command:
 ```
-train and test.py
+evidential train and test.py
 ```
  The script takes the path of the trained model and the test dataset as parameters, and evaluates the performance of the model on the test dataset. At the same time, the trained model and the path of the test data set are taken as parameters, and the performance of the model on the test data set is evaluated.
 
